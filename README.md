@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-<p><b>Welcome to my page!</b> </br> I'm MuhammadKurkar, you can call me KINGMAN. Hobby developer, mainly developing in JS and Python. Trying to improve JS and Python skills. I like making things! Through code, all things are possible! I'm from <img src="https://images.emojiterra.com/twitter/v13.0/512px/1f1f5-1f1f8.png" width="13"/> <b>Egypt</b>, currently living in <img src="https://images.emojiterra.com/twitter/v13.0/512px/1f1f5-1f1f8.png" width="13"/> <b>Palstain, Jaffa</b>. </p>
+<p><b>Welcome to my page!</b> </br> I'm MuhammadKurkar, you can call me KINGMAN. Hobby developer, mainly developing in JS and Python. Trying to improve JS and Python skills. I like making things! Through code, all things are possible! I'm from <img src="https://images.emojiterra.com/twitter/v13.0/512px/1f1f5-1f1f8.png" width="13"/> <b>Palstain</b>, currently living in <img src="https://images.emojiterra.com/twitter/v13.0/512px/1f1f5-1f1f8.png" width="13"/> <b>Palstain, Jaffa</b>. </p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=TheMaestro0&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
