@@ -1,7 +1,7 @@
-# <img src="https://raw.githubusercontent.com/Abhi011999/create_atom_flutter/master/images/atom_editor_logo.gif" width="20"/> Hey, nice to see you
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/> Hey, nice to see you
 **Welcome To My Page**</br>
 I'm Muhammad, you can call me KINGMAN
--  <img src="https://raw.githubusercontent.com/Abhi011999/create_atom_flutter/master/images/atom_editor_logo.gif" width="20"/> Hobby developer
+-  <img src="https://emojis.slackmojis.com/emojis/images/1450319444/32/python.png" width="20"/> Hobby developer
 mainly developing in JS and Python. Trying to improve JS and Python skills. I like making things! Through code, all things are possible!
 </br>
 - I'm from <img src="https://images.emojiterra.com/twitter/v13.0/512px/1f1f5-1f1f8.png" width="13"/> **Jordan** And I am a **Palestinian** refugee currently living in **USA**</br>
