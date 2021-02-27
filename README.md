@@ -1,7 +1,7 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/> Hey, nice to see you
 **Welcome To My Page**</br>
 I'm Muhammad, you can call me KINGMAN
--  <img src="https://emojis.slackmojis.com/emojis/images/1450319444/32/python.png" width="20"/> Hobby developer
+- Hobby developer
 mainly developing in JS and Python. Trying to improve JS and Python skills. I like making things! Through code, all things are possible!
 
 - I'm from <img src="https://images.emojiterra.com/twitter/v13.0/512px/1f1f5-1f1f8.png" width="13"/> **Jordan** And I am a **Palestinian** refugee currently living in **USA**
@@ -22,3 +22,5 @@ mainly developing in JS and Python. Trying to improve JS and Python skills. I li
 
 ##### My Discord Server 
 [<img src="https://discordapp.com/api/guilds/804827461644189726/widget.png?style=banner4" alt="Discord Banner 4"/>](https://discord.gg/JDCk6FWFqq)
+##### My Youtube Channel 
+[<img src="https://youtube-stats-card.vercel.app/api?channelid=UCcSlBVmF1yYY6bCdZiwlOvQ&theme=dark_pink&cache_seconds=86400" />](https://www.youtube.com/channel/UCcSlBVmF1yYY6bCdZiwlOvQ) 
